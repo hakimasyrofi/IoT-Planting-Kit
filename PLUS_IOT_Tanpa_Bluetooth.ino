@@ -6,8 +6,8 @@
 #define FIREBASE_AUTH "yLXlNeHjOsFfsngwB2eMuH8limw7aGrbNjRaW6Su"
 
 //konfigurasi WIFI
-const char* WIFI_SSID = "Ali_roba";
-const char* WIFI_PASSWORD = "ali19660611";
+const char* WIFI_SSID = "#############";
+const char* WIFI_PASSWORD = "##############";
 
 //konfigurasi pin sensor
 #define sensorPin 32
