@@ -2,12 +2,12 @@
 #include <BlynkSimpleEsp32.h>
 
 // You should get Auth Token in the Blynk App.
-char auth[] = "UqnD1L17mQWGYvLdOkPwHAcYLkiHPZDN";
+char auth[] = "############";   #ganti TOKEN APLIKASI BLYNK
  
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "############";
-char pass[] = "#########";
+char ssid[] = "############";   #ganti SSID WIFI
+char pass[] = "#########";      #ganti PASSWORD WIFI
 
 int val = 0;
 
